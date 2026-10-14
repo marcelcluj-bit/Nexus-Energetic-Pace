@@ -2,3 +2,6 @@
 Hub Energetic Regional guvernat de Gemini AI ($ENEX)
 
 - [🌐 Pax Integra: Global Architecture of Systemic Peace (HTML Documentation)](docs/pax_integra_global_peace_architecture.html) — Documentație completă privind arhitectura globală a păcii sistemice și tokenizarea activelor.
+
+
+ -m "Adăugare document oficial de strategie și guvernanță pentru Nexus Energetic a Păcii"
